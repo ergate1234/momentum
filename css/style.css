@@ -25,3 +25,58 @@ img {
 .hidden {
   display: none;
 }
+
+#clock,
+#greeting {
+  text-align: center;
+  color: bisque;
+}
+
+#clock {
+  font-size: 55px;
+  margin-bottom: 20px;
+}
+
+#login-form {
+  margin-top: 50px;
+}
+
+#todo-form {
+  margin-top: 15px;
+}
+
+#weather {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#quote {
+  margin-top: 120px;
+  text-align: center;
+}
+
+.inputlist-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  border-radius: 10px;
+  border: none;
+  height: 30px;
+  background-color: bisque;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  margin-left: 10px;
+  border: none;
+  border-radius: 10px;
+  height: 25px;
+  background-color: black;
+  color: bisque;
+}
