@@ -28,7 +28,7 @@ const quotes = [
     author: "-Winston Churchill-",
   },
   {
-    quote: "You can delay but you can deny.",
+    quote: "You can delay but you can't deny.",
     author: "-Tyron Woodley-",
   },
   {
